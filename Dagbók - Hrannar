@@ -8,4 +8,9 @@ Veitti kennurum admin réttindi og leyfði öllum að fá remote access, gerði 
 
 6.12:
 Setti fullt af group policy á kennara og tölvubraut sem tengjast chrome, t.d. heimasíðu, bookmarks, bannaði síður hjá tölvubraut,
-bannði screenshots hjá tölvubraut og meira. Setti líka chrome sem default hjá öllum
+bannði screenshots hjá tölvubraut og meira. Setti líka chrome sem default hjá öllum+
+
+7.12:
+Setti group policy á tölvubraut og Grafíska miðlun. Tölvubraut geta ekki farið á youtube, delete-að browser history, spilað risaeðlu leikinn.
+Grafísk miðlun getur ekki bætt við notendum á chrome eða notað það sem gestu. 
+Bætti líka við nokkrum öðrum
